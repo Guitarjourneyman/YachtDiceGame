@@ -12,4 +12,6 @@
   9. after all players' tunr is finished, display winner on the screen
   10. when the exit button is pressed, the game window for both players should close simultaneously
 
+## Main Class Explanation
+  - YachtServer: 
 Yacht by java
