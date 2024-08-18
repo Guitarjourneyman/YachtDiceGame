@@ -1,5 +1,9 @@
 # YachtDiceGame
 
+## To Play
+  - Step1: Open YachtServer first
+  - Step2: Open two GUI 
+
 ## Main Function
   1. Input both players'name in separate panels
   2. Afterloggin in,both playes stay in the loading panel until they connect to the server
