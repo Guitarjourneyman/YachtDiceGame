@@ -13,5 +13,9 @@
   10. when the exit button is pressed, the game window for both players should close simultaneously
 
 ## Main Class Explanation
-  - YachtServer: 
+  - YachtServer: it plays as a server we know. It serves RollCount and knows each players' score. It needs ServerHandler to communicate with clients
+  - YachtGUI: the role of Players' GUI. The object is to execute YachtGUI
+  - ClientReceiver: it always listen what the server requests
+  - Constant
+  - CommandConstants: it contains constants to commend
 Yacht by java
